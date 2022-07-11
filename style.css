@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  height: 200px;
+  object-fit: cover;
+}
+
+body {
+  background: burlywood;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  margin-top: 50px;
+  color: darkgreen;
+}
+
